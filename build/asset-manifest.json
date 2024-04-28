@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d271059.css",
+    "main.js": "/static/js/main.ed9749da.js",
+    "static/js/453.0c9c80f1.chunk.js": "/static/js/453.0c9c80f1.chunk.js",
+    "static/media/login.jpg": "/static/media/login.12e575ac25e3403b15ad.jpg",
+    "static/media/plywood.jpg": "/static/media/plywood.11ed9376e7b45dfe5fdb.jpg",
+    "index.html": "/index.html",
+    "main.7d271059.css.map": "/static/css/main.7d271059.css.map",
+    "main.ed9749da.js.map": "/static/js/main.ed9749da.js.map",
+    "453.0c9c80f1.chunk.js.map": "/static/js/453.0c9c80f1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d271059.css",
+    "static/js/main.ed9749da.js"
+  ]
+}
